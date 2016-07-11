@@ -12,7 +12,7 @@ namespace FileNames_Fetcher
         static void Main(string[] args)
         {
             // Put all file names in root directory into array.
-            String Path = @"C:\Users\ali-d\Documents\Debian\myFiles\Ethical Hacking Buffer Overflow\01 What Are Buffer Overflows\";
+            String Path = @"C:\YourPath\";
             Console.WriteLine(Path);
             string[] array1 = Directory.GetFiles(Path);
 
