@@ -4,3 +4,9 @@ c:\users\ali-d\documents\visual studio 2015\Projects\FileNames_Fetcher\FileNames
 c:\users\ali-d\documents\visual studio 2015\Projects\FileNames_Fetcher\FileNames_Fetcher\bin\Debug\FileNames_Fetcher.pdb
 c:\users\ali-d\documents\visual studio 2015\Projects\FileNames_Fetcher\FileNames_Fetcher\obj\Debug\FileNames_Fetcher.exe
 c:\users\ali-d\documents\visual studio 2015\Projects\FileNames_Fetcher\FileNames_Fetcher\obj\Debug\FileNames_Fetcher.pdb
+C:\Users\ali-d\Desktop\Programming\FileNamesFetcher\bin\Debug\FileNames_Fetcher.exe.config
+C:\Users\ali-d\Desktop\Programming\FileNamesFetcher\bin\Debug\FileNames_Fetcher.exe
+C:\Users\ali-d\Desktop\Programming\FileNamesFetcher\bin\Debug\FileNames_Fetcher.pdb
+C:\Users\ali-d\Desktop\Programming\FileNamesFetcher\obj\Debug\FileNames_Fetcher.csprojResolveAssemblyReference.cache
+C:\Users\ali-d\Desktop\Programming\FileNamesFetcher\obj\Debug\FileNames_Fetcher.exe
+C:\Users\ali-d\Desktop\Programming\FileNamesFetcher\obj\Debug\FileNames_Fetcher.pdb

@@ -20,11 +20,18 @@ namespace FileNames_Fetcher
             // ... This is case-insensitive.
             string[] array2 = Directory.GetFiles(@"C:\", "*.BIN");
 
-            // Display all files.
+            // Display all files full path.
             Console.WriteLine("--- Files: ---");
             foreach (string name in array1)
             {
-                Console.WriteLine(name);
+                //Console.WriteLine(name);
+            }
+
+            // Display all files names.
+            Console.WriteLine("--- Files: ---");
+            foreach (string name in array1)
+            {
+                Console.WriteLine(name.Replace(Path, ""));
             }
 
             // Display all BIN files.
