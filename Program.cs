@@ -17,7 +17,7 @@ namespace FileNames_Fetcher
             string[] array1 = Directory.GetFiles(Path);
 
             // Put all bin files in root directory into array.
-            // ... This is case-insensitive.
+            // ... This is case-insensitive. Change the extension
             string[] array2 = Directory.GetFiles(@"C:\", "*.BIN");
 
             // Display all files full path.
